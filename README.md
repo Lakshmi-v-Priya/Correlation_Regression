@@ -26,9 +26,11 @@ REG NO : 212223220049
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output :
+![image](https://github.com/Lakshmi-v-Priya/Correlation_Regression/assets/151720706/6360aba2-ded4-4ce2-9510-ff2eff8e41ec)
 
 # Result:
-![image](https://github.com/Lakshmi-v-Priya/Correlation_Regression/assets/151720706/52f3396e-22fa-4ebf-9841-856e00f2f219)
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
 
-# Output 
+
